@@ -30,6 +30,8 @@ Make sure your version of Python is recent enough. It needs to be either 2.7 or 
 If you do not have Python installed, or if the version number is too low, installing or upgrading are both done by downloading Python from here: [instructions](https://wiki.python.org/moin/BeginnersGuide/Download)
 	
 If you already have Python2, I think it would be simplest to just get the latest version of Python2. And same for Python3 - If that's what you already have stick with that. Why two major different versions of Python are both still in use is a matter of much discussion on the internet. I'm not going to take a stance here; just trying to make this setup process as simple as possible.
+
+NOTE: If you are on OSX El Capitan, chances are you already have Python 2 installed, but I would recommend going ahead and installing Python 3 and using that for Jupyter. Some students were having trouble installing Jupyter with Python 2 on El Capitan but switching to Python 3 seems to have fixed the problem. 
 	
 3. Install Jupyter
 ------
